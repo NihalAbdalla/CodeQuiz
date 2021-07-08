@@ -4,6 +4,11 @@ var quizQuestions = [
         choices: ["storage", "file sharing", "versioning", "credential"],
         answer: "versioning"
     },
+    {
+        title: "What is HTML?",
+        choices: ["Hyper Text Markdown Language", "Hyper Text Markup Language", "Highlight Text Language", "Hyper Text Margin Language"],
+        answer: "Hyper Text Markup Language"
+    }
     ,
     {
         title: "What is CSS?",
